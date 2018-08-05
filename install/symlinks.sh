@@ -12,7 +12,7 @@ ln -fsv ~/.config/zsh/zsh-update ~/.zsh-update
 ln -fsv ~/.config/yarn/yarnrc ~/.yarnrc
 
 # Editors
-ln -fsv ~/.config/atom ~/.atom
+#ln -fsv ~/.config/atom ~/.atom
 ln -fsv ~/.config/vim/plugins ~/.vim
 ln -fsv ~/.config/vim/vimrc ~/.vimrc
 cp -v ~/.config/vim/viminfo ~/.viminfo

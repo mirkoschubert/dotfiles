@@ -4,25 +4,28 @@
 
 ### editors & pagers
 
-- [ ] `less`: default pager
-- [ ] `micro`: simple editor
-- [ ] `nvim`: complex editor
+* [ ] `less`: default pager
+* [ ] `micro`: simple editor
+* [ ] `nvim`: complex editor
 
 ### mail
 
-- [ ] `mutt`: mail client (neomutt)
+* [ ] `mutt`: mail client (neomutt)
 
 ### calendar, tasks & notes
 
-- [ ] `calcurse`: ncurses calendar
-- [ ] `khal`: command line calendar
+* [ ] `calcurse`: ncurses calendar
+* [ ] `khal`: command line calendar
 
 ### file manager
 
-- [ ] `ranger`: file manager
-- [ ] `nnn`: file manager (node.js)
+* [ ] `ranger`: file manager
+* [ ] `nnn`: file manager (node.js)
 
 ## brew cask
 
+* [ ]
+
 ## mas
 
+* [ ] 
