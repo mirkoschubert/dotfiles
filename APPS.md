@@ -24,7 +24,8 @@
 
 ## brew cask
 
-* [ ]
+* [ ] `beaker-browser`: decentralized browser (free)
+* [ ]  
 
 ## mas
 
